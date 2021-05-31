@@ -1,0 +1,2 @@
+# indelaPython
+Python/djangoprojects
